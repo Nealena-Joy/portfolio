@@ -1,5 +1,3 @@
-
-
 // Toggle Email Form
 function toggleEmailForm(){
     var x = document.getElementById("emailForm");
@@ -9,5 +7,3 @@ function toggleEmailForm(){
         x.style.display = "block";
     }
 };
-
-
