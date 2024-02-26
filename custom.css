@@ -7,16 +7,15 @@ Pink-dark > #AB415A
 Blue-dark > #2D4051
 */
 
-/* .navbar-collapse.in {
+.navbar-collapse.in {
     display: block !important;
-} */
+}
 
 
 /* HOME */
 .main-banner {
     background-image: url(./assets/5172658.jpg);
-    background-size: cover;
-    background-repeat: no-repeat;
+    background-repeat: repeat-y;
     background-attachment: fixed;
     height: 80vh;
 }
