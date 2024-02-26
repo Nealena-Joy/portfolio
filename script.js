@@ -10,6 +10,10 @@ function toggleEmailForm(){
     }
 };
 
+$(document).on('click',function(){
+    $('.collapse').collapse('hide');
+    })
+
 var TxtType = function(el, toRotate, period) {
     this.toRotate = toRotate;
     this.el = el;
